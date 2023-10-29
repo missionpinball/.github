@@ -13,7 +13,7 @@ The Mission Pinball Framework is spread across several GitHub repos, including:
 
 ## Documentation
 
-For detailed information on how to install, configure, and use MPF, please see the [official documentation](https://docs.missionpinball.org/). You can edit or contribute to these docs via the [mpf-docs repo](https://github.com/missionpinball/mpf-docs).
+For detailed information on how to install, configure, and use MPF, please see the [official documentation](https://missionpinball.org/). You can edit or contribute to these docs via the [mpf-docs repo](https://github.com/missionpinball/mpf-docs).
 
 ## Support & Community
 
@@ -24,4 +24,4 @@ MPF is open source and not owned by anyway, so support is a "best effort" by the
 
 ## Contributing
 
-MPF is an open-source project and welcomes contributions from the community. If you're interested in contributing to MPF, please see the [contributing guidelines](https://docs.missionpinball.org/about/contributing_to_mpf.html) for more information.
+MPF is an open-source project and welcomes contributions from the community. If you're interested in contributing to MPF, please see the [contributing guidelines](https://missionpinball.org/about/contributing_to_mpf/) for more information.
