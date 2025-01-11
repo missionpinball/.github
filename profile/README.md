@@ -7,7 +7,8 @@ The Mission Pinball Framework (MPF) is a free and open-source software platform 
 The Mission Pinball Framework is spread across several GitHub repos, including:
 
 - [MPF](https://github.com/missionpinball/mpf) (The core MPF game engine)
-- [MPF-MC](https://github.com/missionpinball/mpf-mc) (A media controller which handles graphics and sounds)
+- [MPF-GMC](https://github.com/missionpinball/mpf-gmc) (The new Godot-based media controller for amazing graphics and sounds)
+- [MPF-MC](https://github.com/missionpinball/mpf-mc) (The legacy media controller which handled graphics and sounds before GMC)
 - [MPF Monitor](https://github.com/missionpinball/mpf-monitor) (A graphical app which reports the state of switches, coils, and lights, and lets you interact with a virtual version of your machine.
 - Plus many others. [See the full list of MPF repos.]()
 
